@@ -1,0 +1,18 @@
+[19/Jun/2021:21:57:24] (I): WordPress Instance Info:
+[19/Jun/2021:21:57:24] (I): Home URL : http://localhost/InmoAvelar
+[19/Jun/2021:21:57:24] (I): Site URL : http://localhost/InmoAvelar
+[19/Jun/2021:21:57:24] (I): WordPress Version : 5.7.2
+[19/Jun/2021:21:57:24] (I): Onboarding Version : 1.1.13
+[19/Jun/2021:21:57:24] (I): Multisite : No
+[19/Jun/2021:21:57:24] (I): Server Info : Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/8.0.6
+[19/Jun/2021:21:57:24] (I): PHP Version : 8.0.6
+[19/Jun/2021:21:57:24] (I): HTTPS : No
+[19/Jun/2021:21:57:24] (I): PHP Max Execution Time : 120
+[19/Jun/2021:21:57:24] (I): PHP Max Input Vars : 1000
+[19/Jun/2021:21:57:24] (I): Max Upload Size : 41943040
+[19/Jun/2021:21:57:24] (I): Plugins:
+[19/Jun/2021:21:57:24] (I): [PLUGIN] Database for WPforms : v1.0.0 (wpdebuglog)
+[19/Jun/2021:21:57:24] (I): [PLUGIN] WP SVG Icons : v3.2.3 (EH Dev Shop)
+[19/Jun/2021:21:57:24] (I): [PLUGIN] Templates Patterns Collection : v1.1.13 (ThemeIsle)
+[19/Jun/2021:21:57:24] (I): [PLUGIN] WooCommerce : v5.4.1 (Automattic)
+[19/Jun/2021:21:57:24] (I): [PLUGIN] WPForms Lite : v1.6.7.1 (WPForms)
